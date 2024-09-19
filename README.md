@@ -25,7 +25,7 @@ To view the website locally:
 1. Clone the repository: `git clone https://github.com/your-username/tech-shop.git`
 2. Open the `index.html` file in a web browser.
 
-Alternatively, you can view the live version of this website [here](https://pdineshmurugan.github.io/[TechShop/tree/main/TechShop-main/Project-2%20Tech%20Homepage).
+Alternatively, you can view the live version of this website [here](https://pdineshmurugan.github.io/TechShop/TechShop-main/Project-2%20Tech%20Homepage/index.html).
 
 
 
